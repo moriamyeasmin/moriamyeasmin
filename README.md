@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Moriam Yeasmin!
 
-<!--
-**moriamyeasmin/moriamyeasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Front-End Developer** and **Web Designer** focused on creating clean, modern, and responsive user interfaces. Welcome to my GitHub space!
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I specialize in **HTML5, CSS3 (Flexbox/Grid), and JavaScript**.
+* 🎨 I design and build open-source web templates and UI components.
+* 📚 I love sharing knowledge and resources with the developer community.
+
+## 🌟 My Design Template Collection
+
+This is where I share my latest web design templates and portfolio layouts! Feel free to use them for your personal or commercial projects.
+
+| Template Type | Technology Stack | Status |
+| :--- | :--- | :--- |
+| **Portfolio** | HTML, CSS, JS | Coming Soon |
+| **Business Landing** | HTML, Bootstrap | Coming Soon |
+| **Minimal Blog** | HTML, CSS | Coming Soon |
+
+---
+*Looking for collaboration or a quick-start web template? Check out my pinned repositories!*
