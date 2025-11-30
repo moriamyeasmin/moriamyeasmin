@@ -17,7 +17,7 @@ This is where I share my latest web design templates and portfolio layouts! Feel
 | **Portfolio** | HTML, CSS, JS | Coming Soon |
 | **Business Landing** | HTML, Bootstrap | Coming Soon |
 | **Minimal Blog** | HTML, CSS | Coming Soon |
-| **Plantic Shop** | HTML, Tailwind CSS | Coming Soon |
+| **Plantic Shop** | HTML, Tailwind CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/01.Plantic/) |
 
 ---
 *Looking for collaboration or a quick-start web template? Check out my pinned repositories!*
