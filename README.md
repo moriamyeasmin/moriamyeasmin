@@ -12,12 +12,12 @@ I am a passionate **Front-End Developer** and **Web Designer** focused on creati
 
 This is where I share my latest web design templates and portfolio layouts! Feel free to use them for your personal or commercial projects.
 
-| Template Type | Technology Stack | Status |
-| :--- | :--- | :--- |
-| **Portfolio** | HTML, CSS, JS | Coming Soon |
+| Template Name | Template Type | Technology Stack | Status |
+| :--- | :--- | :--- | :--- | 
+| **Portfolic** | Portfolio | HTML, CSS, JS | Coming Soon |
 | **Business Landing** | HTML, Bootstrap | Coming Soon |
-| **Minimal Blog** | HTML, CSS | Coming Soon |
-| **Plantic Shop** | HTML, Tailwind CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/01.Plantic/) |
+| **Exploric** | Minimal Blog | HTML, CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/02.Exploric/) |
+| **Plantic Shop** | E-commerce | HTML, Tailwind CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/01.Plantic/) |
 
 ---
 *Looking for collaboration or a quick-start web template? Check out my pinned repositories!*
