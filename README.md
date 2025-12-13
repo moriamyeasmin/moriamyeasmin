@@ -16,8 +16,9 @@ This is where I share my latest web design templates and portfolio layouts! Feel
 | :--- | :--- | :--- | :--- | 
 | **Portfolic** | Portfolio | HTML, CSS, JS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/02.Portfolic/) |
 | **Foodic** | Business | HTML, Bootstrap | [Live Preview] |
-| **Exploric** | Minimal Blog | HTML, CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/02.Exploric/) |
+| **Exploric** | Minimal Blog | HTML, tailwindCSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/02.Exploric/) |
 | **Plantic Shop** | E-commerce | HTML, Tailwind CSS | [Live Preview](https://moriamyeasmin.github.io/Tailwind-CSS-Templates/templates/01.Plantic/) |
+| **Beautic** | E-commerce | HTML, Tailwind CSS | [Live Preview]() |
 
 ---
 *Looking for collaboration or a quick-start web template? Check out my pinned repositories!*
